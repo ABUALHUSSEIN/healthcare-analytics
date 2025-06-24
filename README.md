@@ -7,5 +7,5 @@ Notebook: `Healthcare_Anwar.ipynb`
 ## Summary
 - EDA on patient data
 - Visualization of trends
-- Machine learning model for prediction (if included)
+- Machine learning model for prediction 
 
