@@ -3,7 +3,7 @@
 This project explores healthcare data using Python in a Jupyter Notebook.  
 Notebook: `Healthcare_Anwar.ipynb`
 
-![Healthcare Analytics Project](https://raw.githubusercontent.com/ABUALHUSSEIN/Heart-disease-HarvardX-Data-Science-Capstone-machine-learning/main/Heart_Disease.jpeg)
+![Healthcare Analytics Project](healthcare.png)
 ## Summary
 - EDA on patient data
 - Visualization of trends
